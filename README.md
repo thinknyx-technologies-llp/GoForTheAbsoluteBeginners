@@ -94,5 +94,10 @@ This course emphasizes hands-on experience. You will be encouraged to:
 
 
 ---
+
+*Subscribe our Youtube channel for more tutorials at: https://www.youtube.com/@thinknyxtechnologies7446*
+
+*You can visit us for more information at: https://thinknyx.com/*
+
 *Course created and maintained by Thinknyx Technologies LLP*
 
