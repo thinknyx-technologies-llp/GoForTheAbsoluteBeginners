@@ -1,0 +1,1 @@
+ORDER_LOG:2025/01/15 14:45:11 Order ID: 1, Product: Laptop, Quantity: 1
